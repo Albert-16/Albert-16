@@ -7,8 +7,6 @@
     alt="albert-16" /> 
   </p>
 
-https://github.com/Albert-16/Albert-16/blob/89e15b80333e2531f4dc48621abc98987f533606/animation_500_kxa883sd.gif
-
 <br>
 
 <p><img align="right" src="https://github.com/Albert-16/Albert-16/blob/89e15b80333e2531f4dc48621abc98987f533606/animation_500_kxa883sd.gif" /></p>
@@ -75,9 +73,7 @@ https://github.com/Albert-16/Albert-16/blob/89e15b80333e2531f4dc48621abc98987f53
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      alt="react" width="40" height="40" /> </a></p>
 
 <br>
 
@@ -96,10 +92,10 @@ https://github.com/Albert-16/Albert-16/blob/89e15b80333e2531f4dc48621abc98987f53
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albert-16&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="albert-16" /></p>
 
-<!-- <br>
+
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=albert-16&bg_color=0d1117&text_color=ffffff" alt="albert-16" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=albert-16&bg_color=0d1117&text_color=ffffff" alt="albert-16" /></a>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
